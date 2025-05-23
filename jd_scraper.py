@@ -51,4 +51,6 @@ def scrape_job_description(url):
     except Exception as e:
         print(f"Fallback scraping failed: {e}")
         return "Failed to scrape job description."
+    
+    
 

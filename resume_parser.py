@@ -30,3 +30,4 @@ def extract_resume_text(uploaded_file):
     else:
         return "Unsupported file type. Please upload a PDF or DOCX file."
     
+  # Show first 500 characters
