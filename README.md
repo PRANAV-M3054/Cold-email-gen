@@ -23,6 +23,6 @@ This tool helps job seekers save time by generating personalized cold emails and
 ## 🚀 How to Run Locally
 
 ```bash
-git clone https://github.com/yourusername/cold-email-gen.git
+git clone https://github.com/PRANAV-M3054/cold-email-gen.git
 cd cold-email-gen
 pip install -r requirements.txt
