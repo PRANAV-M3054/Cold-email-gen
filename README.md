@@ -1,4 +1,4 @@
----
+
 
 # 📧 Cold Email & Cover Letter Generator
 
@@ -143,7 +143,6 @@ print(email)
 print(cover_letter)
 ```
 
----
 
 ## 📜 License
 
